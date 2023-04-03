@@ -1,0 +1,35 @@
+Before starting to learn DSA first get an idea of what are the things you need to learn.
+
+Choose a language
+1. JAVA
+2. Python
+3. C++
+
+Learn about complexity
+1. Time complexity
+2. Space complexity
+
+Learn about notation
+1. Big-O notation
+2. Omega notation
+3. Theta notation
+ 
+Learn about DSA
+1. Array
+2. Linked Lists
+3. Stack
+4. Queue
+5. Tree
+6. Heap
+7. Disjoint Sets ADT
+8. Graph
+
+Learn about algorithms
+1. Sorting algorithms
+2. Searching algorithms
+3. Selection algorithms
+4. Symbol tables
+5. Hashing
+6. Dynamic programming
+7. Divide and conquer
+8. Greedy algorithm
