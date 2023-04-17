@@ -1,9 +1,11 @@
+Learn it on [Programiz](https://www.programiz.com/dsa)
+
 ## Choose a language
-- JAVA [Link 1](https://www.javatpoint.com/java-tutorial) | [Link 2](https://www.w3schools.com/java/default.asp)
-- Python
+- JAVA | [Link 1](https://www.javatpoint.com/java-tutorial) | [Link 2](https://www.w3schools.com/java/default.asp)
+- Python 
 - C++
 ## Learn about complexity
-- Time complexity
+- Time complexity | [GeeksforGeeks](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/)
 - Space complexity
 
 ## Learn about notation
