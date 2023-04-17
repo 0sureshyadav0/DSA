@@ -1,5 +1,5 @@
 ## Choose a language
-- JAVA
+- [JAVA](https://www.javatpoint.com/java-tutorial) | (https://www.w3schools.com/java/default.asp)
 - Python
 - C++
 ## Learn about complexity
