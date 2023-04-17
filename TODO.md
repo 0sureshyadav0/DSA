@@ -1,17 +1,17 @@
-##Choose a language
+## Choose a language
 - JAVA
 - Python
 - C++
-##Learn about complexity
+## Learn about complexity
 - Time complexity
 - Space complexity
 
-##Learn about notation
+## Learn about notation
 - Big-O notation
 - Omega notation
 - Theta notation
 
-##Learn about DSA
+## Learn about DSA
 - Array
 - Linked Lists
 - Stack
@@ -21,7 +21,7 @@
 - Disjoint Sets ADT
 - Graph
 
-##Learn about alogrithms
+## Learn about alogrithms
 - Sorting algorithms
 - Searching algorithms
 - Selection algorithms
