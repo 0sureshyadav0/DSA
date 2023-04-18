@@ -1,4 +1,4 @@
-Learn it on [Programiz](https://www.programiz.com/dsa)
+Learn it from [Programiz](https://www.programiz.com/dsa)
 
 ## Choose a language
 - JAVA | [Link 1](https://www.javatpoint.com/java-tutorial) | [Link 2](https://www.w3schools.com/java/default.asp)
